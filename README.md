@@ -2,9 +2,10 @@
 Don't just be a script Kiddie
 Tools tested on Kali Linux.
 
-# Tool Mac_change
+# Tool for Mac_change
+-----------------------------------------------------------------------------------------------------
 #                # Prerequisite  #
-python 2.7
+python 2.7, 
 Kali-linux
 
 #                # Usage
