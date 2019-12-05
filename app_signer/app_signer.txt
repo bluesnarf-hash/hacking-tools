@@ -1,0 +1,4 @@
+Install in .ANDRIOD directory
+
+1. keytool -genkey -v -keystore release.keystore -alias androiddebugkey -keystore debug.keystore -keyalg RSA -keysize 2048 -validity 10000
+2. jarsigner -verbose -keystore ~.androiddebug.keystore -storepass android -keypass android 'rootDownloadsSmaliInjectdistSmaliInject.apk' androiddebugkey
